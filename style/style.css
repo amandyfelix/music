@@ -55,6 +55,22 @@ section h3 {
 #nost {
   background-image: url("../images/nost.jpg");
 }
+#taylor {
+  background-image: url("../images/taylor.jpg");
+}
+#nostal {
+  background-image: url("../images/nostal.jpg");
+}
+#sad {
+  background-image: url("../images/sad.jpg");
+}
+#dark {
+  background-image: url("../images/dark.png");
+}
+
+#aleat {
+  background-image: url("../images/aleat.png");
+}
 
 iframe {
   width: 70%;
